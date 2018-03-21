@@ -1,0 +1,437 @@
+Caroline Fredrickson:  I’d like to welcome everybody today.  Thank you very much for coming to our national town hall on domestic spying by the National Security Agency.  I’m Caroline Fredrickson, and I’m the director of the Washington legislative office of the American Civil Liberties Union.  I’m very pleased to have so many of you in our audience today for this very important discussion.  We have people in our virtual audience as well, since we are streaming this live on the web and filming it.  We do have members of the media present. 
+
+This is a very important discussion on the legality of warrantless spying, its effect on our efforts to fight terrorism, and its impact on civil liberties.  To ensure that we get as many questions from the audience as possible, we are going to be gathering your written questions from the side aisle and also we’re getting questions over the internet from our web audience.  We’ll be on the sides collecting them through the discussion up until about noon, when we’ll bring them up to the panel. 
+
+Our panelists today include Anthony Romero, who is the ACLU’s executive director; John Dean, who is the former White House counsel; Mary DeRosa, senior fellow at the Center for Strategic and International Studies; Jim Harper, director of information policy studies at the Cato Institute; and as our moderator today, we’re very pleased to have him.  Oh my gosh; I am so sorry.  Professor Larry Tribe, how could anybody ever forget him or leave him out?  He is an illustrious professor from the Harvard law school. 
+
+Our moderator is Marvin Kalb we’re very thrilled to have today.  He’s a senior fellow at Joan Shorenstein Center on Press, Politics, and Public Policy and Harvard’s Kennedy School of Government.  He’s also the founding director of the center.  He had a very distinguished career in award-winning journalism for over thirty years.  He currently hosts the monthly Kalb Report at the National Press Club, has authored or co-authored ten works of nonfiction and two best-selling novels.  His latest book, The Media and the War on Terrorism, won the 2004 Arthur Rouse Award for press criticism.
+
+Welcome Mr. Kalb, and welcome to our panel.
+
+[Applause]
+
+Marvin Kalb:  Thank you.  Good morning, ladies, and gentleman.  It’s Washington and Lincoln’s birthday, and it’s Presidents’ Day.  We have to think back when we discuss this subject, and ask ourselves the opening question:  Did other Presidents do what President Bush is now doing in the midst of a war?  Is it a totally unprecedented action on the part of President Bush to institute a program of warrantless surveillance?  I understand that Abraham Lincoln did something like suspend the writ of habeas corpus, which people could argue was even more momentous in its day and since.  Franklin Roosevelt, of course, sent Japanese-Americans into internment camps at the beginning of World War II, and later apologized for it – not he, but people apologized on his behalf.  Presidents under certain war-time conditions and feeling certain extreme pressures may very well believe that what they are doing, though highly controversial, are very much within the national interest of the country, even if it tends to bend the law, ignore the law, or sidestep the law.  In their minds, what is happening is an action that is in the best interest of this country, and they were elected to make decisions of that sort.  As we have our discussion today, I just wanted to say that. 
+
+There is no representative of the President on this panel.  We have five very able and distinguished people who are going to discuss the opposition point of view, but interestingly, from five different points of view.  The opposition is not simply that the President is wrong, but the President is wrong for certain specific reasons.  It’s going to be my responsibility as the moderator to pose questions as if I was a Presidential spoken.  I’ll try to limit that imagination from going too far. 
+
+Let me first introduce our panel, which I am very honored to be with tonight.  On my right, Anthony Romero, who is the executive director of the ACLU.  He is the sixth person to hold this job in ACLU’s history.  He comes from a very distinguished background in the foundation world, having worked for the Ford and Rockefeller Foundations.  He’s a graduate of the Stanford Law School, and Princeton’s Woodrow Wilson School of Public Policy and International Affairs. 
+
+To my left, which is only a matter of geography, is John Dean.  At age thirty-one, John Dean was the counsel to the President of the United States of American, Richard Nixon, back in July, 1970.  Before he had that job, he was chief minority counsel to the Judiciary Committee of the U.S. House of Representatives.  He was Nixon’s White House lawyer for a thousand days.  He got his law degree from Georgetown University and he recounted his days in the Nixon White House and the Watergate scandal in two gripping books, Blind Ambition and Lost Honor. 
+
+To my immediate right is Laurence H. Tribe, the Carl Logue University professor, and professor of Constitutional Law at Harvard.  Laurence Tribe got his job at the law school when he was twenty-six, which sounds absurd.  But he was a professor at that time, and at the age of thirty, he was already a tenured professor.  I love looking down the list of all of his many accomplishments.  He has written one hundred and fifteen books and articles, including his classic, American Constitutional Law. 
+
+Jim Harper is the director of information policy studies at the CATO Institute.  He focuses on the difficult problems of adapting law and policy to the unique problems of the information age.  He’s a member of the Department of Homeland Security’s data privacy and integrity advisory committee.  He cares a great deal about civil liberties.  He holds a law degree from Hastings College of the Law.
+
+To my immediate left is Mary DeRosa, who is a senior fellow at the Center for Strategic and International Studies.  In her background during the Clinton administration, I noticed that she served as special assistant to the President and legal advisor.  Earlier, she was deputy advisor to the National Security Council staff from 1997 to 2001.  And before that, she was a lawyer in private practice at Arnold & Porter.
+
+Okay, I would like to start with a couple of simple questions and that will gradually take us into the focus of the issue itself.  I will start with Mr. Romero.  Sir, how can you possibly object to something as simple as a Presidential statement that says:  If a member of al Qaeda, or something affiliated with them, is having a telephone conversation with someone in the United States, an American citizen, why would you not want to listen in on that conversation and find out what your enemy was doing?
+
+Anthony Romero:  The question though for us, is you listen in to that conversation. 
+
+Marvin Kalb:  It’s not an argument about whether...
+
+Anthony Romero:  That’s not it, that’s not it.  Because you want the government to follow up who’s involved with terrorism, who’s in touch with members of the al Qaeda.  My biggest concern for us and the concern with this illegal domestic spying program is in effect, it violates the basic rules of the road, of how you get those intercepts. 
+
+This is a program that was not authorized by Congress, no judge at any level of the federal government has signed off on any of the NSA warrants, and for us it goes right back to the basic system of checks and balances, Marvin.  And for us, how do you ensure that when you ask the government to prosecute the war on terror, when you ask the government to find who is or who is not involved with terrorism, then you want to ensure that you keep a robust system of checks and balances.
+
+These are fifth grade civics lessons.  The reason why you ensure that no one branch of government is given too much power is because when you give that much power to only one branch of government, it can lead to abuse.  And that’s the kernel of our commitment.
+
+Marvin Kalb:  And yet there is only one person in one branch of the government that is the Commander in Chief in a war, so that almost by definition, you can follow on your own, efforts of the definition suggest that the President in war is somebody special.
+
+Anthony Romero:  But we count [sounds like] on those powers, even during times of war.  The other areas where you’ve decided before:  Lincoln suspending habeas corpus or the Japanese American internment.  Those were mista0kes.  Those were mistakes that now Republican and Democratic presidents alike say that those were blotches on otherwise illustrious careers of presidents.
+
+And what we have to ensure ourselves is that we not repeat those same mistakes.
+
+Marvin Kalb:  Okay.  John Dean, I remember as a reporter covering Watergate that there was that phrase that you used one day – was it at the Senate Judiciary Committee – where you said that a cancer is growing on this presidency, and you were referring to the Nixon presidency, so the obvious question to you, Mr. Dean, is a cancer growing on this presidency?
+
+John Dean:  When you suggest as much to address this question [sounds like], I immediately flash back on the morning when I went into the President’s office to tell him there was a cancer growing on his presidency.  The reason I did so was he had both feet up on the desk.  I wasn’t sure he was paying attention.  I wanted to make sure he heard what I had to say that morning, so I started by telling him there was a cancer on this presidency.  That brought his feet to the floor.
+
+In a parallel situation today, I would tell this President that he has a very serious problem.  I’m not sure if there’s a cancer yet, I’m not sure if it’s metastasizing, but the diagnosis is not healthy. He has made such a radical reading of his powers, not unlike Nixon.  And those operating on his behalf have pursued that policy that it could well end up where we did with the Nixon White House.
+
+Marvin Kalb:  End up meaning that you imagine it could possibly end at impeachment?
+
+John Dean:  Well, Nixon, of course, was not impeached. 
+
+Marvin Kalb:  But he just ducked it.
+
+John Dean:  He just ducked it.  There’s no question in my mind that this President has already committed one or more technically impeachable offenses.
+
+Marvin Kalb:  Like what?
+
+John Dean:  Well, for example, going to war in Iraq by misrepresenting to Congress what he was doing and why he was doing it.  That’s, first of all, a crime, to go to Congress and to make material misrepresentations.
+
+I think that when he, in essence...  Go back to Lincoln, who was mentioned earlier.  Lincoln, when he broke the law clearly, went to Congress and got consent later.  This President is saying, “I don’t have to go to Congress.  I’m going to go unilaterally and I’m not even going to seek your permission ex post facto.”  That’s a big difference.
+
+Marvin Kalb:  But there is some stirring up on Capitol Hill now, so we may get to that point, and we will later in our discussion.
+
+Professor Tribe, the question that if I were a student in your class I would like to ask you is this:  quite often we hear that the President has inherent powers, kind of one of those mystical phrases, which you can translate for us.  In those inherent powers, can it not been said that he has the power to do what he’s doing right now with this surveillance program?
+
+Larry Tribe:  It can be said, but not loudly.
+
+Marvin Kalb:  Not loudly. 
+
+Larry Tribe:  People have, I think, inherent rights, although the President and those he favors tend not to believe that; they tend to believe that the rights of people are limited to those that are spelled out in the Constitution.
+
+But the idea that the President should have a nebulous cloud of inherent powers, that is unattached to his role as Commander in Chief, which can be regulated by Congress, unattached to his duty faithfully to execute the laws, which he says he needn’t do if the law is like the Foreign Intelligence Surveillance Act, that kind of free-floating inherent power is the very that we fought a revolution against, the very thing that the Supreme Court has said its faced again.
+
+Justice O’Connor in one of the detainee cases has put it not in terms of inherent power but in terms of a blank check – that even in wartime, the President does not have a blank check. 
+
+Justice Jackson, Robert Jackson, wrote a very famous opinion arising out of Truman’s attempt to take over the steel industry to protect our troops in Korea, and he divided presidential power very helpfully into three categories.  The President’s power was at its apex when he acted with Congress’s authority.  There was a twilight zone when Congress hasn’t spoken.  And then there was the area where the President’s power was at the lowest, where Congress had faced the problem in detail and said no.
+
+That’s what we face now.  In 1978, Congress said, We understand that sometimes you need surveillance to protect national security, but even when there is a declaration of war, the 1978 statute said, fifteen days should be long enough for you to come back to Congress and get a modification of this comprehensive regime.  And this President is saying that even when Congress has said that in a genuine war that we had declared after two weeks and a day, he better come back here, he has said more than four years after the war on terrorism that may never end, a war that has already lasted longer than the Civil War, World War I, World War II, he has said, I have the power, regardless of what Congress says, stretch his words to give me authority or to disregard his words. 
+
+And that is the quintessential example, in my view, of the kind of abuse of power that if the political alignment in the country were otherwise would be a no-brainer for an impeachable offense. 
+
+[Applause]
+
+Marvin Kalb:  Okay.  Hang on a second.  Jim Harper, here in Washington, when one mentions Cato Institute, one imagines a very conservative institution.  Correct me if I’m wrong, but you’re concerned about civil liberties because the new high technology mining of electronic correspondence by the President may be dipping into our civil liberties in a way that is unacceptable.  Am I phrasing that right?
+
+Jim Harper:  I’ll say this.  If you accept the characterization that the Cato Institute is conservative, you probably have talked to many conservatives recently.  I like to think we’re off the charts.  In the work that I’ve done with the Department of Homeland Security data privacy and integrity advisory committee, some of the most important things we’ve looked at are risks.  When a program like secure flight or checkpoints is proposed, what risks do they address and how well do they address them?  I don’t speak for the committee entirely, but one of the most important things we can do is have a conversation about risk.  The premise of the legal arguments about the President’s inherent authority, the scope of FISA, the authorization of military force, and the Fourth Amendment question is that we are in a state of war.  This is obviously a very different war than any we’ve encountered before.  It’s not objectively verifiable at any given time.  There’s no space where shooting is happening regularly.  We need more information and a better conversation about what is actually happening in order to address the reality.
+
+Marvin Kalb:  But let’s face it.  I would love to give you more information.  But if I give you more information, Osama bin Laden is going to be listening in.  As much as I love you, Jim, I can’t run that risk.
+
+Jim Harper:  It’s easy to over-read my point.  My point is not that there shouldn’t be any secrecy at all; but there needs to be a more careful and limited use of secrecy.  Frankly, the domestic soil of the U.S. is where the war is taking place.  The front line troops are the American citizens, and people doing their jobs.  With more information, they might be better able to [indiscernible] terrorists.  There’s a security rationale and a legal rationale for more openness and discussion about the nature of the threat to us today.
+
+Marvin Kalb:  Mary DeRosa, you have spent much of your life looking into national security issues, and international relations.  I would imagine that the President’s argument would be persuasive in almost every way.  The War on Terror introduces a new kind of war.  It introduces a new and heavier set of responsibilities for the government, and perhaps the citizens as well.  We simply have to take certain steps because we are fighting against a ruthless enemy.
+
+Mary DeRosa:  I actually agree with those points, and I agree with many of the arguments that the Administration make to support the program.  I think terrorism is a grave threat; it is a different kind of intelligence challenge than what we’ve faced in the past.  It requires some types of new technology and information, and more domestic intelligence than previously.  I agree with all of those things.  It simply doesn’t get me to the message they’ve used.  I might be okay the type of surveillance they’re conducting, but it needs to have oversight, particularly with the new kinds of intelligence challenges.  It needs checks, oversight, and transparency to the degree possible by Congress and the public.
+
+Marvin Kalb:  Can’t transparency itself in the war on terrorism be regarded as an enemy?
+
+Mary DeRosa:  I don’t think so.  There are some things that I think need to remain classified under some circumstances.  There are certainly things we can’t have out there, but there are many things you can do.  What you have to do when you talk about using and sharing private information, is be able to build up.  You’re not going to succeed in these programs.  There are national security issues here in the way they are carrying it out, because you’re not going to ultimately succeed if you can’t build up some kind of accountability.  There’s not an understanding that there will be real oversight and protection against abuses.  I think we actually need more of that than we’ve had in the past.
+
+Marvin Kalb:  You have spoken about a new model to protect individual privacy.  What would be the ingredients in this new model?
+
+Mary DeRosa:  I think with the greater use of private information and technology, you need to have more than just occasional Congressional oversight.  It’s important; it’s critical.  But more than an Inspector General investigation after the fact, we need to have ongoing monitoring, auditing, and a much more rigorous check.  If you don’t have that, you will never get the trust and you’ll just be in this cycle of secrecy, leaks, outrage, prohibition, and new programs.
+
+Marvin Kalb:  I would like to address a question to all of you, which comes right out of what Jim Harper particularly referred to.  We’re in a war.  I’m old enough to remember something called the Declaration of War, which I believe is in the U.S. Constitution.  Since World War II, we haven’t had one of those, though we’ve been involved in a nonstop series of wars.  What has happened?  Where is this declaration?  Why aren’t we getting it any longer?
+
+Jim Harper:  Well, we’ve only had five Declarations of War in our history.  It’s been recognized that when the United States is attacked, repelling such an attack needn’t await a Declaration of War.  I’m not among those that think because the authorization of military force didn’t call itself the Declaration of War, that somehow the entire war in Iraq violates the Constitution.  It may have been procured by fraud.  Maybe there was impeachable offense there, but I think the absence of a declaration is not crucial.  What is crucial, however, is that Congress has decided that certain threats to privacy – phone calls, and emails read and mined – cannot be treated as simply an inevitable side-effect even of a declaration.  When Congress said they’re going to look at electronic surveillance, it said that after fifteen days you have to get a check, even when war is declared. 
+
+Let me just add a word that arises out of something Mary said.  It’s true that we all recognize there are certain cases where certain details – location of the troops, the precise technology used – shouldn’t be revealed.  But we’re not children; we’re not so stupid as to think Osama bin Laden is shocked to learn we’re trying to overhear what he’s saying.  The secrets that this administration thinks must be kept are ridiculous.  They also believe in selectively releasing secrets.  We now have learned that Scooter Libby was the recipient of information by the Vice President of the United States.
+
+Marvin Kalb:  We don’t know that was the Vice President, only by the phraseology that it was his superior.
+
+Jim Harper:  He only had one.  Maybe it was the President.  The point is, it used to be the case that the President could declassify information for important national security reasons.  Giving the Vice President power to declassify information selectively and not for security reasons, is an example of the kind of porous transparency that we do not need.  We need some meaningful accountability so that we can measure the threat.  I think we’re threatened by terrorism, but I feel more threatened by the fact that the cargo under the plane I flew here in from Boston may not have been checked, than I do from someone looking like Muslim wasn’t listened to by George Bush.
+
+Marvin Kalb:  But so much of what is happening today seems to rotate around either we are at war and that connotes many important things to a lot of us, or we’re not.  Or are we in something in between, John Dean?
+
+John Dean:  I was delighted to hear Jim put one of these things in perspective.  If you look at the raw numbers of people who die more from other things than the total from terrorism...more people die annually from drowning.  Industrial accidents are twice the number.  Deaths from heart attacks run several hundred thousand a year.  Deaths from cancer run half a million a year.  There are so many things threatening American lives, to focus on this one issue alone – to go to war on it - seems to be a little in disproportion.  I grew up in the Cold War.  I grew up in the duck-and-cover era, where indeed we thought that we might be mutually destroyed.  That is to me a much greater threat than what we are dealing with today.  When we become frightened by the terrorists, the terrorists are winning. 
+
+Anthony Romero:  Marvin, I would also add that I think phrasing the question as are we or are we not at war is really a side question of the larger debate we are now engaged in.  You can argue this is a different type of war, that the soldier are on our home field, that the enemy uses our openness as sword and shield, and this is a war without end.  This will never come to a conclusive ending like the Second World War did.  But what’s really at stake is not whether or not we’re at war; it’s whether or not the President violated the law.  It is very explicit. 
+
+The Foreign Intelligence Surveillance Act grants certain powers in which to intercept the electronic communications of individuals who are in touch with groups like al Qaeda.  It says it’s the exclusive means by which one can intercept those communications.  The President, to our collective detriment, decided to put aside the law and sidestep Congress in its entirety, except for some token reports to leadership.  He decided to bypass the foreign intelligence surveillance court and arrogate to himself – a word that I’ve enjoyed using recently because it connotes other words like arrogance – he arrogates himself the power to intercept the electronic communications, and not just of al Qaeda members.  This is where the President is engaged in a spin game that we have to contest.  Others on this panel who know the technology much better will tell you that when you talk about the type of NSA program and technology that is being described, you’re doing keyword searches, combing through very large databases, and likely to intercept the communications of ordinary Americans.  A Washington Post story talked about at least 5,000 Americans whose files had been intercepted.  It talked about the washed-out rate, meaning the rate of intercepts that had nothing to do with terrorism, as being very high.  Part of what we ought to back to is, don’t we want to fight this war on terrorism smartly?  Isn’t part of the problem that you have to find those needles in the haystacks, and the NSA program has added enormous amounts of hay, making it all the harder to find those couple needles?
+
+Marvin Kalb:  Let me just ask Mary something.  Suppose that everything that Tony has now said is absolutely accurate.  I can’t argue with it all.  Suppose that after going through all 5,000 of those you come up empty-handed, but on the 5001st you come upon the individual who is planning to put a bomb underneath George Washington University, where we are now.  It would stifle higher education in this country.  Isn’t it worth it?
+
+Mary DeRosa:   Well, I think there are ways that you can conduct some of the things you’re talking about the right way, and there are ways that you can conduct it in a way that is not worth it.  I don’t know what exactly they’re doing in this program, so there’s a certain degree of hypothetical.  For example, if you were doing those kinds of searches but it was all automated and no human beings saw them – if no intrusive action could be taken on the 5,000 people based on some automated link, sure.  More importantly, if there is a reliable oversight to avoid abuse or misuse, it can be effective.  Before you ever start one of these programs, you need to be absolutely rigorous about finding out whether it’s going to do you any good.  I think that’s got to be the first question, but it isn’t often.  One of the problems that you have with an executive branch that does everything on its own, is they are going to take the easier way.  They are going to take the way where maybe they don’t have to test everything, because nobody is going to stop them.
+
+Marvin Kalb:  Jim, my sister is a very practical woman.  If she was listening to this discussion, she might ask, “Look, if you’ve got nothing to hide, what are you so worried about?  Let them listen in.  Who cares?”
+
+Jim Harper:  It’s an unfortunate and wonderful part of being an American that we protect privacy for any reason, or no reason.  The premise of privacy and individual rights is not necessarily on their functional utility, but on the fact that individuals want to keep it.  That’s the most important reason I know of for privacy.  The question of data mining is a fascinating one and I think Mary and I, who disagree on many things, are both interested in finding out exactly what is being done.
+
+Marvin Kalb:  Tell us what data mining is.
+
+Jim Harper:  Sure.  Data mining is an idea; even the definition is difficult to pin down.  The idea is that you might be able to go into a mass of data and comb through it in some way with algorithms to find new evidence to anticipate terrorism.  With the right algorithms and a large enough mass of data, you might find anomalies or some pattern that leads you to new information.  We’re working on this and we’re all thinking about it.  The best thinking I’ve got at this point is that data mining of this type is almost theoretically proven impossible. 
+
+The experience of marketers is a good model to go with.  They have hundreds of thousands of examples of people who might buy from them.  They have reams and reams of data about other potential customers, but when they go market to those customers, their false positive rates are above 95 percent.  Data mining is premised on the theory that somehow we’ll reverse that entirely and get false positive below one percent.  When you’re searching for a very low incidence, probability theory tells us that even a very good model will give you more false positives, and that will essentially destroy the validity of the test.  In medical screening, for example, there are many tests that are very good; but if the disease or condition is very rare, the test is more destructive than not testing at all.
+
+Marvin Kalb:  Larry Tribe, you have argued cases before the Supreme Court.  You are a student of the Supreme Court, and a lot of people have said that you want to be on the Supreme Court.  Let us say the cases that are now being filed in one court after another – one case submitted by the ACLU.  Supposing they go up the chain and get to the Supreme Court, what would happen?
+
+Larry Tribe:  The likeliest thing is that Court would say the groups who are challenging these programs don’t have standing to bring the challenge.  They may suspect that they are being overheard and they may feel chilled, but that isn’t enough under the Court’s doctrine.  The likelihood is that the Court would duck the issue, and we’d get no more accountability than you have now. 
+
+I do think if by some miracle the Court would actually speak to the issue, there are at least five votes on the current court, perhaps six, that would say it is unconstitutional in the face of something like FISA, as a matter of law, for the President to do what he’s doing.  Even without regard to detailed questions about precisely how wide the net is cast, or how broadly the surveillance program is designed. 
+
+Setting aside what the Court would do, two things that occur to me as I hear all of this is one:  The President is saying, look, you guys blame me for not connecting the dots before, and now that I’m connecting the dots you blame me.  What do you want me to do?  Of course, he’s not connecting the dots; he’s collecting more dots and it’s important to remember that.
+
+[Laughter]
+
+The second thing is, apart from data mining and dot collection; this isn’t just about surveillance and the FISA.  Nor is it about whether we’re at war or not.  The Court has been very clear when it has spoken that we are not one of those countries that says, when we are war the Constitution goes out the window.  Going back again to Justice Jackson, we were at war in Korea.  President Truman genuinely believed that the war effort required he seize the steel mills.  Congress hadn’t even forbidden it, but Jackson said that being Commander in Chief of the Army and Navy does not make the President Commander in Chief of the United States of America.  That’s the important point.
+
+[Applause]
+
+Anthony Romero:  Let me interject and, with enormous respect, disagree with my mentor Larry Tribe about the standing issue because we have to be optimists.  At the ACLU, we wouldn’t be able to do our work unless we were optimistic.  We don’t tilt at windmills; there’s too much to do.  We did file a lawsuit about a month ago challenging that the NSA spying program was illegal as you read the Foreign Intelligence Surveillance Act, and unconstitutional when you read the First and Fourth Amendments.  What we came up with was perhaps not as negative or pessimistic of a reading of the standing issue.  I went to the inferior school of Stanford on the West coast.  I didn’t have Larry Tribe as my professor, but I had some very fine professors. 
+
+As I read the standing jurisprudence, in order to have standing in a lawsuit you have to show injury or harm.  That’s basically the common sense way to explain it.  In the First Amendment context, because the Court realizes the importance of a robust marketplace of ideas and ensuring speech, it grants a much more expansive view of the question of standing.  Our clients and our lawyers, who put together this case and picked some very specific plaintiffs – we have one fellow from the Hoover Institute, Larry Diamond.  He is a conservative and a person who is on the Iraq transition team, who has sent students out to Egypt to study democracies in the Middle East, who he, himself, as part of the efforts that Condoleezza Rice encourages to be a part of, is in touch with foreigners and individuals who might subject him to the surveillance.
+
+We have a lawyer - this is a second example - who represents the Australians in the Guantanamo commission in Mr. Hicks.  Now this lawyer cannot talk openly and robustly with his client’s parents – can’t email them, can’t make phone calls, won’t be able to confer as openly in the defense of his client as he’d like.  Now the harm is this, and the chilling effect, going back to your point, Marvin, about looking at 5001, if the cost of finding the 5001st intercept that’s of worth, if the cost is shutting down free speech, if the cost is shutting the discourse of ideas, of having Americans afraid of talking into the phone and doing certain computer searches, then yes, I do think the cost is too high. 
+
+[Applause]
+
+Marvin Kalb:  I feel as if I’m back in a classroom listening to you and surrounded by such noble and erudite people.  If all of that were said on September 10, 2001, and we had that sense that this was all a good theoretical exercise, it’s a nice thing to discuss – and you are absolutely right, sir, you’re absolutely right – but then, September 11 did happen, and I think what I am hearing is that in spite of September 11, we have to go on as if it did not happen, as if we haven’t learned anything from that. 
+
+I’m kind of curious, John Dean, you worked for a thousand days as you say in the White House with Nixon under fire, the Vietnam War was under way, there were mass demonstrations [indiscernible].  Now to look back to those times and then superimpose your sense of what is going on in the White House today, what are the conflicting pressures on this President?
+
+John Dean:  Let me say first that the difference between national security and internal security is a very thin line.  The difference between foreign policy and domestic policy is a very thing line.
+
+Marvin Kalb:  If you asked Lyndon Johnson, he would agree with you completely.
+
+John Dean:  Well, as somebody you’re talking as an insider, but I could never find that clear line.  It just doesn’t exist.
+
+The line between what is in the public interest and what is in the President’s interest is another fine line.
+
+Marvin Kalb:  I wonder if they crossed.
+
+John Dean:  When you take all those factors, and what Bush is doing now, what Nixon did during Vietnam, they indeed felt their policies were inseparable from both their political, national security, foreign policy advantages, and therefore their policy was premised on that sort of mentality, where you don’t really have a line.
+
+In years since, I’ve read that John Kennedy has said the same thing, Lyndon Johnson has said the same thing, and Eisenhower has in essence said the same thing.  Once you’re in there, you realize how fine that line is.
+
+Marvin Kalb:  And that means what?
+
+John Dean:  That means that in his pursuit of his policies, he has figured he has a constituency that believes in what he’s doing.  The rest of us - to hell with us.  And that’s pretty much the way it is.
+
+Marvin Kalb:  Mary DeRosa?
+
+Anthony Romero:  It is also about checks and balances.  The framers were as smart as Lyndon Johnson and Richard Nixon and all the rest.  They realize that the person in the seat of power is by nature going to think that which is in the national interest are what that person’s interests advances.  It seems to me that’s why we have checks and balances.  That’s why we do not believe that the bleaker view of the person in the White House, which is predictably always going to blur those lines, ought to be the last word.
+
+And what is distinctive about this President is that, more than FDR or Lincoln or any of the other wartime presidents, he is so imbued with the belief that he cannot be wrong, a higher Father has told him that he’s doing the right thing – I’m quite serious, I think there is a sense of manifest divine mission here that means something as technical and narrow as checks and balances is really beside the point. 
+
+We learned from 9/11 that we cannot afford to do business the way the framers thought we should do business.  That’s the lesson that I’m afraid we’ve learned and someone has to bring him up short.  It’s not going to happen from within.
+
+Marvin Kalb:  Mary?
+
+Mary DeRosa:  I just have a brief corollary to what would life be like after 9/11 as a president, and I think having worked at the NFC, and with national security professionals, I think another thing that you can’t ignore is that after 9/11, I wasn’t at the NFC, and I was thinking oh my God, what must it be like there, what must it be like for all the people’s whose job it is to protect national security.  And I think because they want to do their jobs really well, because they want to not be the person who’s responsible for another attack, they are going to, with the best of intentions, air on the side of doing more.  They cannot be expected to balance; they cannot be expected to check themselves.  They’re going to go farther on the side of if the first 5000 didn’t work; I’m going to just try 5001.  That’s what their viewpoint is.
+
+So I think that is another reason why checks and balances are so important.  Somebody has to check from the outside.
+
+Marvin Kalb:  Would you look at it from the inside of the government for a second, Tony?  When they look out at America, at the institutions of America, what are the institutions that they are most concerned about?  I speak as a former active journalist, and I have the impression quite often that American governments seem to be most frightened by the media.  In this particular case, the whole issue arose because the New York Times did a story of December of last year revealing the existence of this program.  You wouldn’t have a lawsuit if that’s not the case.
+
+Anthony Romero:  Yeah, absolutely.
+
+Marvin Kalb:  And the New York Times waited one year, one whole year before they put in on the front page of the newspaper, so it was not done cavalierly.  This was a very responsible decision-making process on their part.
+
+Anthony Romero:  Some would argue that taking so long was an irresponsible decision, though, Marvin. 
+
+[Applause]
+
+Marvin Kalb:  But you’ve never been a journalist.
+
+Anthony Romero:  I’ve never been a journalist.  I’ve been many things.
+
+Marvin Kalb:  You’ve never been in the newsroom when there is a major decision like that.
+
+Anthony Romero:  But there have also been journalists who have criticized the New York Times, including its own public editor, Byron Calame, who wrote a brilliant piece criticizing the Times for sitting on it as long as it did and not explaining it.
+
+But be that as it may, I just want to go back...
+
+Marvin Kalb:  I’d like to have an argument with you about that.
+
+Anthony Romero:  Oh, we’ll have many, I’m sure.  We’ll have lunch. 
+
+[Laughter]
+
+But I think the point we’ve got to go back to is the fact that it’s the arrogance of this administration.  I don’t necessarily think it’s just because their driven with a sense of well-intentioned zeal.  There is arrogance to what they’ve done.  We have the ability.  In fact, Marvin, the point that I think that the Bush administration often tries to paint of its various critics, whether you’re the ACLU Director or the former Nixon White House counsel, is to say, oh, they’re living in a fantasy world; they forget that 9/11 happened.  That has not been case of any of the critics that I know of, including my own organization. 
+
+I live in lower Manhattan.  I used to walk out my door and I used to look at the World Trade Center every day of my life.  I know precisely what happened on 9/11. 
+
+The ACLU lost one of its board members in the World Trade Center.  He was a police officer who believed you didn’t have to choose between civil liberties and national security.
+
+So when they say that we’re living in a fantasy world and we’re not grappling with the true reality of 9/11, which is offensive to any American who really felt the grief and the horror of that day.
+
+What we’re arguing, however, is that when we engage the political debate on these issues, let’s have a debate, and the President had ample ability to talk about what powers he did and didn’t have.  He had ample opportunity.  We had a debate on the Patriot Act.  We’ve just been debating its re-extension over the last several years.  There have been numerous briefings up on the Hill. 
+
+But the arrogance of power, the abuse of power, meant that he kept that program secret.  We did not engage it.  The public did not know what powers the President took onto himself. 
+
+And that, for me, really cuts at the heart of what democracy is all about.  We can have a good give and take.  We would love to have, if someone from the administration stood up there with us today, a discussion about how the program operates, how broad it is, not trying to reveal any national security secrets, but just about how you ensure some checks and balances, as Professor Tribe has said. 
+
+And yet that debate is what the government stopped us from having, in fact insisted that it not happen.
+
+Marvin Kalb:  Tony, thank you very much.  Jim?  And then we’re going to go to questions.
+
+Jim Harper:  I’ve done enough to make sure that I get a wealth of angry emails from conservatives, so I want to do something to get me a wealth of angry emails from liberals -- and disagree with the assumption of arrogance on the part of the Bush administration.
+
+The September 11 attacks were deeply moving to all of us, and people in the administration felt very strongly that it was their jobs to protect the nation.  Just by making the arguments I do, I don’t believe that people in the Bush administration are cynically manipulating the levers of powers, maintaining a façade of fear, strictly because it’s to their political advantage.  I assume the good intentions of the Bush administration while arguing against the legal positions they are taking. 
+
+I agree with the legal positions and hope the arguments on standing succeed, but I think again we have to come back to the question of the idea of war.  Each of would do better to think twice when we hear cued the phrase “war on terror.”  What’s the nature of this war?  What’s actually going on?  What are the risks to me?  I, for one, and most of us operate based on our own experience, don’t feel any increased sense of insecurity when Osama Bin Laden hurls a cassette tape out of a cave somewhere in Pakistan.  It doesn’t make any difference to me at all.  I live on Capitol Hill where nominally it is a target area. 
+
+Think to yourselves about this war and what it means.  It’s not a war at all.  It’s a serious, soluble security dilemma.  And the phraseology matters for legal purposes, because it gets to a fourth amendment issue.  Judges are very likely to take judicial notice of war and essentially cave on important Fourth amendment questions that are probably in this program.
+
+Marvin Kalb:  I think in fairness it has to be pointed out, too, Jim, and this is directly to you and partially to Tony, that at the beginning of 2002, Karl Rove, who is the political advisor to the President, said in instructions sent out to Republicans preparing for the off-year election, that the war on terrorism and the way in which that would be used, was very much going to be the heart of the political effort to elect Republicans.  And that was done in the 2004 election as well.
+
+Jim Harper:  Honestly believe that quality—
+
+Marvin Kalb:  No, no, I’m not saying that they didn’t believe the other.  I think they believed both.
+
+Jim Harper:  I think they believed both.
+
+Marvin Kalb:  Okay, we have questions here, lots of questions.  And to the degree that I can read your handwriting – if I had written them, I couldn’t – but I’ll do the best I can here.
+
+This picks up, by the way, an interesting question that we’ve been talking about and it takes us to the next stage.  Assuming Congress had for institutional reasons allowed the President to ignore FISA, in other words, there are a number of hearings that are now scheduled and some that have taken place, won’t it most likely simply legalize what he says he is doing?  And if that is the general direction that he’s taking, what provisions to reasonably protect civil liberty have a chance of being adopted in the FISA?  Larry?
+
+Larry Tribe:  A number of leading Republicans have gravitated toward that idea, bless the President’s program by statute, line up behind the President, and retroactively validate it.  After all, in a sense, that’s what Congress did with Abraham Lincoln’s suspension of habeas corpus. 
+
+Happily, many of the leading Republicans have said that kind of Band-Aid would be a mirage.  It would just be a charade, because it would not in any way interject some dispassionate attempt to balance the risks against the benefits, some kind of meaningful oversight.
+
+Senator Gram and others have said that they want some kind of judicial involvement.  Who is the government of the United States following around and tracking?  Whose emails are being hurt?  It seems to me that is the more likely place where a consensus will gravitate.  Maybe I’m being too much of an optimist.  It seems to me that the manifests pointlessness of saying, okay, we bless it; we don’t know what it is, we don’t need to know, but whatever the President wants to do is fine.
+
+I think that the trust that the administration might want to have in the immediate aftermath of 9/11 was dissipated enough by Katrina and by other evidence that they are not, necessarily, doing a terrific job of protecting us, that now the idea that whatever the President thinks is necessary ought to be done, is just not going to carry very much weight.  I think we would have given away a very important first right, and not one that I would be willing to give away.
+
+Marvin Kalb:  Okay, thank you, Larry.  The question here is for any panelist, although I’m going to turn to Tony and ask him to respond to this.  We’ve read reports of the administration infiltrating religious groups participating in peaceful anti-war activities.  Give us your general thoughts and where will these activities go in the future?
+
+Anthony Romero:  I’m glad that it must be a card-carrying member who asked that question. 
+
+[Laughter] 
+
+We have a series of lawsuits that make these kinds of abstractions around surveillance and infiltration real in actual communities.  We have filed a Freedom of Information Act lawsuit on behalf of 150 different groups all across this country to get the FBI files on those groups.
+
+FOIA, the Freedom of Information Act, is essentially democracy’s death ray [sounds like].  It’s the only way you can be sure that what’s going on in democracy is what the government says its doing. 
+
+And what we find from this inquiry, from perhaps a bit of initial skepticism or suspicion on the government’s part, is the fact that the government has in fact infiltrated a number of different religious groups – Quaker, for instance, some of the animal rights groups like PETA, has kept files on groups like Green Peace – that we know that the government has kept almost 1200 pages on the ACLU itself after September 11. 
+
+Now for us, Marvin, this raises a peculiar set of questions.  Why would the government be compiling a dossier of 1100-plus pages on the American Civil Liberties Union after 9/11?  I can say we may be a great many things, but we’re not a terrorist organization. 
+
+[Laughter]
+
+And why is the government spending its time compiling dossiers and files on us?  We have gotten 20 pages that have fully redacted of the government’s documents on the ACLU.  The only thing you actually do see, you can find it on our website aclu.org, you can see the mark in someone’s handwriting saying ACLU in the margins and pointing to whatever document they’ve redacted.
+
+But it does send chills up one’s spine when you read these stories and you read about how they’re infiltrating vegan protesters or you’re realizing they’re focusing on PETA.  They are really vexing times.
+
+Marvin Kalb:  You know that the...
+
+Jim Harper:  They’ve gotten more than 1100 pages even on me, and I’m not a terrorist.  But they want to know who you’re going to sue and when, they want to prepare for these lawsuits so they can file the papers saying you have no standing.  That’s why they want to...
+
+Anthony Romero:  As long as they go to a judge to get the warrant, it would be perfectly fine.
+
+Marvin Kalb:  Mary?
+
+Mary DeRosa:  I think that it could just as easily and might be more likely be overzealous thus leading to incompetence and overzealousness combined, not really that, as I said before, people who are trying to do their job just sort of go too far and not check. 
+
+And I think the other point there is the efficiency point.  Checks and balances don’t just leave you protecting liberty.  It leads to efficiency.  Those kinds of having a dossier, spending your time building dossiers on PETA and the ACLU, is just not the way we want people who are protecting us from terrorism to be acting.
+
+Marvin Kalb:  Jim?
+
+Jim Harper:  To be interesting, I want to point out the fact that the next terrorist attack may well come not from al Qaeda or some affiliated group but again like ten years ago from some source domestically.  Professor Tribe may change his mind at any time. 
+
+[Laughter] 
+
+Which is a cute point but a very important thing to remember, that security is not as simple as fighting the last battle, and I agree with his point that likely incompetence leads to tracking groups that are obvious to us not terrorist groups but there are fringe environmental groups that do things that are dangerous to people in the United States.  I’m hesitant to call it quite terrorism, but the threats come from a lot of different directions and we have to think about them abstractly rather than fighting the last battle.
+
+Marvin Kalb:  This program, in addition to being carried by C-SPAN, is of course being sent off on the internet in a thousand different mysterious ways, and we have received a number of questions through the internet.  This one from Gary is Des Moines, Iowa:  if it is illegal to authorize these wiretaps, why aren’t changes being made?  John, why aren’t changes being made?
+
+John Dean:  I’d say the primary reason is that the Bush administration has found that the ability to impose great threats on this Congress, which they control.  The Congress to me, somebody who started his career in government working on Capitol Hill as the minority counsel to the House Judiciary Committee at a time when Lyndon Johnson was in the White House, I actually experienced something called oversight. 
+
+Marvin Kalb:  It wasn’t presidential, though.
+
+John Dean:  It was presidential oversight, and it’s something that it seems in this Congress with this President there is zero oversight.  It is striking how much institutional pride has been lost by this Congress, and until we have that, this White House is going to be able to be pretty much what it wants.
+
+Anthony Romero:  And I guess my role is also to play the optimist on the panel.  I completely agree with Mr. Dean, although I do think that the events of the last several weeks give one, again, some renewed sense of optimism.  The fact that the concerns have been raised among Republicans like Pat Roberts in today’s Washington Post or New York Times, raising some of the questions; it’s a beginning.  I agree with you that the glass is not full, but it’s getting full -- the fact that you have Olympia Snowe and Chuck Hagel and others who’ve begun to raise these questions.  I think Senator Specter did a very fine job of trying to hold the Attorney General and nail his feet to the floor and just not let him wriggle out of very difficult, vexing questions at the hearings last week.
+
+And I think if we have done our job well in making sure that we don’t allow this to be the province of the liberal left-wing of the Democrat Party, then we can have a much more—
+
+Heather Wilson has also come out on the House side and assisted on hearings with the House Intelligence Committee, which is very encouraging.  She’s also in a very difficult race down in New Mexico, and that might explain part of the reason she has been as vocal as she has. 
+
+I think that the ultimate responsibility for this lies with the American people, where they have got to come out and say, we want a President who complies with the law, we want a Congress who has oversight. 
+
+[Applause]
+
+Marvin Kalb:  I have a question for Jim Harper.  Jim, in 2002, the question of rights, the American public was made aware of the CIA Total Information Awareness program.  The public was outraged.  In 2003, it was deep-funded.  Does the current NSA program, I guess the point is:  is the NSA program today that we’re talking about this actual Total Information Awareness program, but in another wrapping?
+
+Jim Harper:  It well could be.  We don’t know, because it’s secret and I believe the Attorney General signaled to us that there are secret programs beyond the one that we’re talking about now.  So it’s unclear exactly what this is. 
+
+Total Information Awareness was, as I spoke about earlier, a plan or a course of study into data mining, which I think Mary can probably address also, to the idea being that the Department of Defense collected a massive amount of information about our communications, medical care, and purchases.  They might be able to find the data that indicates incipient terrorism.
+
+Since TIA was deep funded, a lot of people in the administration felt it was unfairly treated, frankly, and cast aside without careful consideration on a knee-jerk privacy basis.  I tried to argue that there are merited reasons to cast it aside, but rumor has it it’s gone into the black budget; that is, it’s being conducted—
+
+Marvin Kalb:  The black budget is the budget that is not made public.
+
+Jim Harper:  It’s completely offline, yes.  It’s a secret budget.  And there are programs, something like thirteen different data mining programs in different agencies that we know of, thanks to the government accountability officer four years ago.
+
+Marvin Kalb:  This is a couple of interesting questions here.  Vice President Cheney, in his interview with Brit Hume, this was on Fox last week concerning the shooting incident, stated that an executive order gave him the power to declassify information.  Please discuss the constitutionality of such an order.  Larry?
+
+Larry Tribe:  Yes.  The President’s power to open the window of sunlight on the material that the President had originally cast into the dark knows no constitutional limits, unless you could prove – this is extremely implausible – that it is being used solely and exclusively for improper political purposes, but that’s just one of these theoretical professor points.  You can’t ever prove that.
+
+Now the President can delegate that power.  He can delegate it to the Vice President if he wants.  I can think of no serious constitutional limit.  I know there were some articles a while back claiming that the Vice President is not a member of the Executive Branch, because he is the head of the Senate.  That’s another professorial point that wouldn’t get very far in the real world.
+
+So I think the answer is that even though as a citizenry we have every reason to be suspicious and outraged – and I think John Dean is right, ultimately, it’s we as citizens who are to blame if we rely only on the courts to save us, because very often, despite the best advocacy in the world from Tony, they will not come to the rescue – it’s we citizens who have to look at the power being wielded by the President in the hands of the Vice President to hand out privilege of classified information and declassified for political reasons, but the Constitution itself, as is often the case, is not going to come to the rescue.
+
+Anthony Romero:  But, Marvin, I would add that he has not done that in this instance.
+
+Marvin Kalb:  What are you saying?
+
+Anthony Romero:  He has not given, as I read the executive orders, the Vice President the power to declassify information.  When Cheney was interviewed, he said that he could declassify, and then halted himself; then he went and reported that he had now authority to classify material and the amended executive orders back in 2003.  He does not have power of declassification, nor does the President for that matter if he doesn’t follow the procedures.  U.S. vs. Nixon made it very clear that a president just can’t unilaterally take a set of regulations and executive orders and declassify them at that point.  He has to follow the procedures or he has to eliminate and issue a new executive order.
+
+Marvin Kalb:  John, why is it important whether the Vice President, who is described as a heartbeat away from the presidency and all that, why is it important whether he has the right or doesn’t have the right to declassify?
+
+John Dean:  Well, you try to limit.  In fact, during the Nixon administration, believe it or not, Richard Nixon wanted to declassify an awful lot of papers.  His motive might have been very well suited; he wanted to do it because it embarrassed a lot of Democrats to do so, but he had Bill Rehnquist, who was then the head of OLC run an interdepartmental chair where we had a program to declassify a lot of material.  Still using mules in the military was classified and things of that nature, but Presidents wanted limit in it if you will. 
+
+Bill Clinton issued a declassification order that declassified something like a billion documents, and now we have orders that put time limits on classification.  In 25 years, and the burden falls on the agency to then come back in and show why it should be. 
+
+So I think the Vice President, being in that loop, because he created his own national security council, because he created so many foreign policy apparatuses that he needed his own classification powers.  And that’s why the amendment was added to the 2003 amendments.
+
+Marvin Kalb:  So does he have that power or not?
+
+John Dean:  He has that power to classify but not declassify.  There’s a difference.
+
+Anthony Romero:  But I think the points are raised, I think for our discussions today, is the fact that you have to connect the dots.  Forget about him collecting the dots.  Connect the dots on all these different places where they have exerted executive power in a way that is unprecedented.  We talk about the domestic spying program, an illegal spying program that accesses American citizens without judges and without Congress in the seat.  You have the abuse of executive power in the context of designating American citizens as enemy combatants on American soil, denying them access to lawyers and without charge.  You have the abuse of executive power in the context of saying that individuals apprehended in the war are not going to afforded the protections of the Geneva Convention, in violation of domestic international laws that bind this government.
+
+When you really begin to see that the classification issue that Mr. Dean just described for us, you see these connections, and I’m sorry, I go back to the point that I don’t think it is only some well-intentioned individuals trying to do their very best.  I think there is an agenda, which is to push through as aggressively as they can what powers they can take.  And only we can stand in their way. 
+
+[Applause]
+
+Marvin Kalb:  Thank you very much.  What recourse do we have if Congress and the Judiciary refuse to check the excesses of executive power?
+
+Jim Harper:  To elect a different Congress. 
+
+[Applause]
+
+Marvin Kalb:  Okay.  As terrorism is merely a tactic, not an ideology, isn’t the acceptance of the phraseology “war on terrorism” in and of itself conceding half of the argument?
+
+Jim Harper:  Yes.  Yes, whoever asked the question.
+
+Marvin Kalb:  Explain that.
+
+Jim Harper:  One of the most interesting things to me in my study of terrorism is the fact that it’s a tactic.  It’s as important to communicate about terrorism as it is to suppress terrorist attacks.  We hope the London and Madrid bombings never happen anyplace ever again, but they killed about the number of people that die on the highways of the United States on an average long weekend.  Are we in mortal fear of dying on the highways?  No, because we have a general understanding of those risks and people communicate those to us.  We accept a lot of those risks rationally.  Good communication about the terrorist threat would help suppress the effect of terrorism in the United States.  Briefly, I can give you two examples of communications that worked and didn’t work.
+
+At one point, we had a communication coming from the administration that we should be very afraid, but go on with our lives.  That’s poor risk communication.  After the London bombings, I was actually quite impressed by Secretary Chertoff’s talk about the situation in the United States.  He issued statements of authority; not specifically that it was safe to go on the subway or it’s unsafe.  Either one of those messages would cause people to fear going on the subway.  He said that we’re going to learn from this.  That’s a way of communicating about risk that brought people in the United States to a more settled view of what the risks were. 
+
+The communication that the administration uses to defend the NSA program contributes to the tactic of terrorism.  The administration would just as well to carefully, but subtly, take some credit for the fact that we have not suffered attacks in this country since 9/11.  That’s a controversial point of view because it tends to ratify some things that most of us here probably disagree with, but it’s an alternative communication strategy without increasing the war talk.
+
+Marvin Kalb:  Thank you, Jim.  Larry, you wanted to add something?
+
+Larry Tribe:  I was going to say that I agree with what Jim is saying, but I do have this worry:  If those of us who are concerned with the rule of law and preserving important Constitutional principles in war time, are understood to be somehow suggesting there’s no difference between dying in the World Trade Center and dying in a highway accident, we will be dismissed as irrelevant because most of feel there is a difference. 
+
+I have a son, a daughter-in-law, and a granddaughter living not that far from the World Trade Center.  I think it is perfectly reasonable to say that there are groups with global reach who mean to inflict as much harm as possible.  And our military engagement against those groups is as serious as any war.  I’m not troubled by that, and I think we should argue within that framework.  We should realize that kind of war is not a war on an idea or a technique, but it is a war on a set of groups and practices that is not going to be over anytime soon.  Any sacrifice we make of basic principles in fighting that war, even if it gains us efficiency, is not a sacrifice that will end in our lifetime, or those of our children.  We will be in effect giving away fundamental parts of what makes this nation so special.
+
+Jim Harper:  If the professor wanted to talk about this a security dilemma, he’d be exactly right.
+
+Marvin Kalb:  Kathy from Bloomberg, Pennsylvania on the internet has this question:  How does the NSA determine who al Qaeda is without listening to all communications?  Mary?
+
+Mary DeRosa:  I think we don’t know exactly what they’re doing, but the best I’ve been able to determine is that they are probably using some type of link-analysis.  They’ve got numbers that I’ve gotten from a variety of ways, and they’re doing some sort of linking.  Whether they’re doing analysis of content or who is calling who, I don’t know.  Obviously somebody knows, but I don’t know if anybody here has a better view.  It is probably links that are mostly automated.  When they get to a level of a gut feeling that this is something we need to look at, then they will listen in.  That’s the best I can put together.
+
+Marvin Kalb:  We’ve only got about five minutes to go and I want to get a few more questions in.  One is from De Harris, New Mexico from Caroline Parks:  I would appreciate an explanation of the difference between a Declaration of War and the authorization to use military force when passed by Congress.  That was in the fall of 2001.  How does that difference impact the power that the executive branch actually has?  When I hear people say we’re at war, I wonder if it’s technically true.
+
+Jim Harper:  You know, the administration argues that the authorization to use military force gives it more power than a Declaration of War would.  Under a Declaration of War, the FISA says that the power to engage in warrantless wire-tapping expires in fifteen days.  The administration says they can see that, but this authorization was not a Declaration of War.  This is really Louis Carroll or Franz Kafka talking.  Therefore, this authorization for the use of military force is not subject to the fifteen day limit.  In fact, it is a limitless authority to go around and make links, listen to people, and we won’t tell you who.  Nothing in existing law says that because no war was formally declared, there are any particular steps that are automatically out of the question. 
+
+It would take us more time than we’ve got to talk about the various arguments some have made to suggest that because this war is one of choice and not of defense, the whole war in Iraq may be unconstitutional.  There are arguments to that effect, but I’ve not found them persuasive.  What’s remarkable is that some Republicans are even saying that.  Senator Gram said to Mr. Gonzales, the Attorney General,  when I voted for this authorization of the use of force, I never thought I was giving you the power to conduct illegal wire-tapping on Americans without warrants or the approval of Congress.  You know what his answer was?  We know you didn’t think it, but the law had nothing to do with what you thought when you passed it.
+
+[Laughter]
+
+Marvin Kalb:  What is extremely interesting is that in a lot of the questions I’ve tried to read through, there is something that runs through all of them.  There is a suspicion that the administration is using this warrantless surveillance program for purposes broader than the war against terrorism.  There’s a suspicion that something else is going on; that they’re going after political opponents.
+
+[Applause]
+
+Hang on a second.  We can do this all later.  There’s also an assumption and a question that a lot of people have expressed in different ways about this war on terrorism.  That is whether we’re really at war.  I know you say that is not the central issue; the central issue is whether the President has violated the law.  One gathers from a lot of people that is a kind of gnawing problem.  What is going on here?  If we’re at war, why aren’t we asked to make sacrifices?  This is the kind of thing that you were talking about, Jim.  I’m just going to read this from Chris Tenant, a U.N. consultant:  The assumption underlying all of the administration policies and actions is that we are really at war.  In my opinion, we are not at war, but have occupied a country.  Even the idea of war against terror is totally questionable, as wars are carried out against nations.  The idea here is that, what kind of enemy are we fighting? 
+
+I wonder if I could ask all of you to give me a definitive analysis in forty-five seconds.  Starting with Tony, what is the central message you would like to leave with the people raising this set of questions?  Then we will say goodbye. 
+
+Anthony Romero:  America is strong enough to fight terrorism.  We have a system of checks and balances that works well.  We have three branches of government that have to work together for the same goals.  No one branch of government is predominant or preeminent over the other.  As we think about what it is we’re fighting for, some core values for me are equality, due process, and being innocent until proven guilty.  Those are what define us as Americans.  That’s what I feel when I look at the American flag, or when I’m celebrating Presidents’ Day at George Washington University.  I want to know that the country is much bigger than any one founding president.
+
+Marvin Kalb:  Thank you very much.  John Dean?
+
+John Dean:  I flew back from California for this brief visit for one reason.  I can’t think of a more important issue than what we’re seeing with this administration.  They’ve really lost respect for the rule.  It runs across the board from electronic surveillance to the abuse of torture, and I can’t believe that in my lifetime I would hear somebody in the White House put out a memo authorizing the use of torture.  This is pretty serious stuff.  This is worse than Watergate, to borrow a term.  I would sum it up as we can only hope that in 2006, the light bulb goes off for the American people and they say, this isn’t the way the country is supposed to be run.  They go to the polls and make a decision.  That’s my wish.
+
+Marvin Kalb:  Thank you, John.  Larry Tribe?
+
+Larry Tribe:  It’s very hard to add anything to those two statements.  I deeply believe in the principles this country is founded on, but I deeply fear that people can be bought off and persuaded that some marginal benefit of security is worth giving up those principles.  I profoundly share the hope that people will wake up and vote in terms of restoring a system of government that doesn’t use fear mongering and sloganeering; one that doesn’t take the American people for granted and pays some attention to the important value of actual truth, as opposed to marketing.  That means for me that we desperately need to elect a legislative branch that will check an executive who is profoundly and totally out of control.
+
+Marvin Kalb:  Thank you, Larry.  Jim Harper?
+
+Jim Harper:  As much passion as there is on the side that’s being represented in the discussion we’ve had today, there’s passion on the other side.  There are people who believe as strongly as we do that our country faces mortal peril in the form of terrorism.  This discussion has to continue.  I’d offer the idea that we talk more carefully about the nature of the terrorism risk.  We need to hear more from our government about the nature of the risk so that we can digest it and assess it for ourselves.  All of us need to be very serious about it.  I disagree with the idea that bad faith in the White House is at the root of this.  Serious people feel strongly against how we feel, and we need to take their arguments seriously and address them seriously, if we are to come to the place we all want to be – which is respect for the separation of powers and the rule of law in the United States.
+
+Marvin Kalb:  Thank you, Jim.  Mary DeRosa?
+
+Mary DeRosa:  I believe that terrorists pose a very grave threat and I think that fighting terrorism is an incredible challenge.  It’s an intelligence challenge.  I start from that, but the way to address it is not to just push executive authority to its limit at all times.  That’s counterproductive.  The way to address is to work with our entire system, trust the constitution, trust the checks and balances, and work to build trust.  By pushing executive authority to its limit, which they justify with reasons of national security, it doesn’t work.  As we’ve seen, both in the case of torture and the NSA program, it takes bites that are unnecessary.  It breeds confusion and it is unnecessary.
+
+Marvin Kalb:  I must say that on 9/11, an editor called me and asked me to do a piece on how 9/11 has changed journalism.  I said that I couldn’t do that piece because journalism hasn’t changed; the principles are essentially the same.  The story has changed; what we are writing about has changed.  The broadcast of that has changed, but not the fundamentals of journalism.  I end up sharing those views as expressed by the panel here, investing as well in those who do not agree with us, a good faith effort to see that this country is protected in this new post-9/11 world in the best way we can figure out.  Clearly, we are troubled land at the moment.  We are a sharply polarized country.  People on the Republican side don’t tend to accept the views or even believe there is even good trust in faith on the Democratic side, and vise versa.  Somehow it’s going to end up with the people of this country, and we will find in the people – if we are lucky - the good sense to come to the right conclusion. 
+
+I want to thank our panel, and I want to thank you.  God bless you all.  Good night and good luck, as Murrow would say.
