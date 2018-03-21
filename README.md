@@ -20,8 +20,6 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 - [Speaker classifier for a script (code + samples)](https://github.com/SuminHan/hss302-2018/tree/master/speaker_classifier) (last modified: Wed, 21 Mar 2018 09:56:06 GMT)
 
 ## [1. Business Meeting](https://github.com/SuminHan/hss302-2018/tree/master/1.%20Business%20meeting)
-### 20 frequent verbs
-think_vvp(33), going_vvg(27), do_vv(21), thank_vv(19), do_vvp(18), want_vvp(18), need_vvp(16), did_vvd(15), doing_vvg(15), dont_vvp(14), get_vv(14), go_vv(14), let_vv(13), make_vv(12), say_vvp(12), declassify_vv(10), know_vvp(10), take_vv(10), add_vv(9), cant_vvp(9)
 
 ## 2. Interview
 
