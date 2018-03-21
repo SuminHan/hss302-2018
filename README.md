@@ -6,7 +6,7 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 
 ## Supplementary Materials
 
-Feel free to ask TA if you have any question on how to utilize the tools especially on AntConc and TagAnt! (You don't have to understand these. Also, we may run the program instead of you and give you the resulting data.)
+*Feel free to ask TA if you have any question on how to utilize the tools especially on AntConc and TagAnt! (You don't have to understand these. Also, we may run the program instead of you and give you the resulting data.)*
 
 - Characteristics of Spoken Language.pdf
   1. Imitation Game.mp4
