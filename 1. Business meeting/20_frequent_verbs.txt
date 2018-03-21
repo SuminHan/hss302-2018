@@ -1,0 +1,1 @@
+think_vvp(33), going_vvg(27), do_vv(21), thank_vv(19), do_vvp(18), want_vvp(18), need_vvp(16), did_vvd(15), doing_vvg(15), dont_vvp(14), get_vv(14), go_vv(14), let_vv(13), make_vv(12), say_vvp(12), declassify_vv(10), know_vvp(10), take_vv(10), add_vv(9), cant_vvp(9)

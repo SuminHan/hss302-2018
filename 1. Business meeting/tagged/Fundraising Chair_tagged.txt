@@ -1,0 +1,2 @@
+The_DT Tom-Wat_NP fundraising_NN forms_NNS were_VBD mailed_VVN in_IN last_JJ week_NN ._SENT We_PP expect_VVP delivery_NN will_MD be_VB next_JJ Monday_NP ._SENT Please_UH listen_VV to_TO the_DT announcements_NNS during_IN home_NN room_NN for_IN further_JJR information_NN ._SENT No_DT other_JJ fundraisers_NNS have_VHP been_VBN discussed_VVN ._SENT 
+

@@ -1,0 +1,2 @@
+Move_NN for_IN a_DT roll_NN call_NN vote_NN ._SENT 
+

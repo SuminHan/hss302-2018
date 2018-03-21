@@ -1,0 +1,3 @@
+The_DT sheriff_NN is_VBZ opposed_VVN to_TO this_DT increase_NN ._SENT 
+I_PP move_VVP an_DT amendment_NN to_TO the_DT motion_NN to_TO require_VV 25_CD percent_NN of_IN the_DT proceeds_NNS from_IN the_DT increase_NN in_IN the_DT tax_NN on_IN criminal_JJ cases_NNS go_VVP to_TO fund_VV the_DT sheriff_NN 's_POS department_NN ._SENT 
+

@@ -1,0 +1,20 @@
+The_DT meeting_NN will_MD please_VV come_VV to_TO order_VV ._SENT "_'' {_( one_CD rap_NN of_IN the_DT gavel_NN }_) 
+The_DT Vice_NP President_NP will_MD now_RB lead_VV us_PP in_IN the_DT pledge_NN ._SENT 
+Will_MD the_DT secretary_NN please_VVP take_VV the_DT roll_NN ?_SENT 
+The_DT secretary_NN will_MD now_RB read_VV the_DT minutes_NNS of_IN the_DT last_JJ meeting_NN ._SENT 
+Are_VBP there_RB any_DT additions_NNS or_CC corrections_NNS to_TO the_DT minutes_NNS ?_SENT {_( Pause_NP ._SENT }_) If_IN not_RB ,_, they_PP stand_VVP approved_VVN as_IN written_VVN ._SENT 
+The_DT treasurer_NN will_MD now_RB read_VV the_DT balance_NN in_IN our_PP$ account_NN ._SENT 
+Are_VBP there_RB any_DT corrections_NNS to_TO the_DT Treasurers_NP Report_NP ?_SENT {_( Pause_NP }_) If_IN not_RB ,_, they_PP stand_VVP approved_VVN as_IN read_NN ._SENT 
+We_PP will_MD now_RB have_VH the_DT committee_NN reports_NNS ._SENT Will_MD the_DT chairman_NN of_IN the_DT Fundraising_NP Committee_NP please_VVP report_NN ?_SENT 
+Thank_VV you_PP ._SENT Will_MD the_DT chairman_NN of_IN the_DT Community_NP Service_NP Committee_NP please_VVP report_NN ?_SENT 
+Thank_VV you_PP ._SENT Will_MD the_DT chairman_NN of_IN the_DT Education_NP Committee_NP please_VVP report_NN ?_SENT 
+Thank_VV you_PP ._SENT Is_VBZ there_RB any_DT old_JJ business_NN that_WDT needs_VVZ to_TO be_VB discussed_VVN ?_SENT {_( Pause_NP }_) 
+Is_VBZ there_RB any_DT new_JJ business_NN to_TO be_VB discussed_VVN ?_SENT 
+It_PP has_VHZ been_VBN moved_VVN and_CC seconded_VVN that_IN/that we_PP have_VHP a_DT bake_NN sale_NN every_DT Monday_NP during_IN lunch_NN ._SENT Is_VBZ there_RB any_DT discussion_NN ?_SENT 
+Do_VV I_PP hear_VV a_DT second_NN ?_SENT 
+It_PP has_VHZ been_VBN moved_VVN and_CC seconded_VVN to_TO amend_VV the_DT original_JJ motion_NN to_TO be_VB on_IN Friday_NP instead_RB of_IN Monday_NP ._SENT Discussion_NN ?_SENT 
+Is_VBZ there_RB any_DT further_JJR discussion_NN ?_SENT {_( Pause_NP }_) Hearing_NP none_NN ,_, all_PDT those_DT in_IN favor_NN of_IN changing_VVG the_DT bake_NN sale_NN day_NN of_IN the_DT week_NN from_IN Monday_NP to_TO Friday_NP say_VVP aye_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN ._SENT }_) All_PDT those_DT opposed_VVN say_VVP nay_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN and_CC then_RB report_VV the_DT result_NN ._SENT }_) The_DT amendment_NN to_TO the_DT original_JJ motion_NN has_VHZ passed_VVN ._SENT Is_VBZ there_RB any_DT further_JJR discussion_NN on_IN the_DT motion_NN ?_SENT {_( Pause_NP }_) Hearing_NP none_NN ,_, we_PP will_MD now_RB vote_VV ._SENT All_PDT those_DT in_IN favor_NN of_IN holding_VVG a_DT bake_NN sale_NN every_DT Friday_NP at_IN lunch_NN say_VVP aye_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN ._SENT }_) All_PDT those_DT opposed_VVN say_VVP nay_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN and_CC then_RB report_VV the_DT result_NN ._SENT }_) Is_VBZ there_RB any_DT further_RBR new_JJ business_NN ?_SENT {_( Pause_NP }_) 
+There_EX is_VBZ one_CD announcement_NN for_IN the_DT members_NNS ._SENT A_DT group_NN photo_NN will_MD be_VB taken_VVN for_IN the_DT yearbook_NN on_IN Wednesday_NP during_IN period_NN 4._CD Please_RB remember_VVP to_TO dress_VV appropriately_RB ._SENT Officers_NNS ,_, you_PP need_VVP to_TO wear_VV your_PP$ jackets_NNS ._SENT 
+Our_PP$ next_JJ meeting_NN will_MD be_VB Thursday_NP ,_, period_NN 5._CD Do_VVP I_PP hear_VV a_DT motion_NN to_TO adjourn_VV ?_SENT 
+It_PP has_VHZ been_VBN moved_VVN and_CC seconded_VVN to_TO adjourn_VV this_DT meeting_NN ._SENT All_PDT those_DT in_IN favor_NN of_IN adjourning_VVG say_VVP aye_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN ._SENT }_) All_PDT those_DT opposed_VVN say_VVP nay_RB ._SENT {_( Wait_VV for_IN members_NNS to_TO voice_VV vote_NN and_CC then_RB report_VV the_DT result_NN ._SENT }_) Meet_NP is_VBZ adjourned_VVN ._SENT 
+

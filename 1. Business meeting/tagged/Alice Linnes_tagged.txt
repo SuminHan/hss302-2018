@@ -1,0 +1,4 @@
+I_PP 'm_VBP afraid_JJ I_PP ca_MD n't_RB agree_VV with_IN you_PP ._SENT I_PP think_VVP rural_JJ customers_NNS want_VVP to_TO feel_VV as_RB important_JJ as_IN our_PP$ customers_NNS living_VVG in_IN cities_NNS ._SENT I_PP suggest_VVP we_PP give_VV our_PP$ rural_JJ sales_NNS teams_VVZ more_JJR help_NN with_IN advanced_JJ customer_NN information_NN reporting_NN ._SENT 
+I_PP just_RB stated_VVD that_IN/that we_PP need_VVP to_TO give_VV our_PP$ rural_JJ sales_NNS teams_VVZ better_JJR customer_NN information_NN reporting_NN ._SENT 
+Well_RB ,_, we_PP provide_VVP our_PP$ city_NN sales_NNS staff_NN with_IN database_NN information_NN on_IN all_DT of_IN our_PP$ larger_JJR clients_NNS ._SENT We_PP should_MD be_VB providing_VVG the_DT same_JJ sort_NN of_IN knowledge_NN on_IN our_PP$ rural_JJ customers_NNS to_TO our_PP$ sales_NNS staff_NN there_RB ._SENT 
+

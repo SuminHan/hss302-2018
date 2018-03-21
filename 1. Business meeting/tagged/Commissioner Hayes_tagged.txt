@@ -1,0 +1,2 @@
+I_PP move_VVP previous_JJ question_NN ._SENT 
+

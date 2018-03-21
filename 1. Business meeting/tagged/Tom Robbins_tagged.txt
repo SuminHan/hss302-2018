@@ -1,0 +1,2 @@
+Thank_VV you_PP Mark_NP ._SENT Let_VV me_PP just_RB summarize_VV the_DT main_JJ points_NNS of_IN the_DT last_JJ meeting_NN ._SENT We_PP began_VVD the_DT meeting_NN by_IN approving_VVG the_DT changes_NNS in_IN our_PP$ sales_NNS reporting_VVG system_NN discussed_VVN on_IN May_NP 30th_JJ ._SENT After_IN briefly_RB revising_VVG the_DT changes_NNS that_WDT will_MD take_VV place_NN ,_, we_PP moved_VVD on_IN to_TO a_DT brainstorming_NN session_NN concerning_VVG after_IN customer_NN support_NN improvements_NNS ._SENT 
+
