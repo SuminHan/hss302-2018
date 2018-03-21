@@ -8,19 +8,17 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 
 *Feel free to ask TA if you have any question on how to utilize the tools especially on AntConc and TagAnt! (You don't have to understand these. Also, we may run the program instead of you and give you the resulting data.)*
 
-- Characteristics of Spoken Language.pdf
-  1. Imitation Game.mp4
-  2. Saving Private Ryan.mp4
-- AntConc
-- TagAnt
+- [AntConc](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/AntConc_Supplementary.pdf)
+- [TagAnt](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/TagAnt_Supplementary.pdf)
   - https://youtu.be/9jqVRBEPjCU
   - https://youtu.be/VvkBMOGvVM4 
 - Samples
-  - Business meeting and interviews(1)
-  - Business meeting and interviews(2)
-- Speaker classifier for a script (code + samples) (last modified: Wed, 21 Mar 2018 09:56:06 GMT)
+  - [Business meeting and interviews(1)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%201.docx)
+  - [Business meeting and interviews(2)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%202.docx)
+- [Speaker classifier for a script (code + samples)](https://github.com/SuminHan/hss302-2018/tree/master/speaker_classifier) (last modified: Wed, 21 Mar 2018 09:56:06 GMT)
 
 ## 1. Business Meeting
+
 
 ## 2. Interview
 
