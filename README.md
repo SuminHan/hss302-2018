@@ -14,6 +14,8 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 - [TagAnt - Supplementary Material](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/TagAnt_Supplementary.pdf)
   - https://youtu.be/9jqVRBEPjCU
   - https://youtu.be/VvkBMOGvVM4 
+  - ![alt text](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/step1.PNG)
+  - ![alt text](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/step2.PNG)
 - Samples for Group #1 and #2
   - [Business meeting and interviews(1)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%201.docx)
   - [Business meeting and interviews(2)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%202.docx)
