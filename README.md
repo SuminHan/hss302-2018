@@ -21,7 +21,7 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 
 ## [1. Business Meeting](https://github.com/SuminHan/hss302-2018/tree/master/1.%20Business%20meeting)
 
-## 2. Interview
+## [2. Interviews](https://github.com/SuminHan/hss302-2018/tree/master/2.%20Interviews)
 
 ## 3. Presentation
 
