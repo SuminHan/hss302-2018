@@ -14,6 +14,8 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 - [TagAnt - Supplementary Material](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/TagAnt_Supplementary.pdf)
   - https://youtu.be/9jqVRBEPjCU
   - https://youtu.be/VvkBMOGvVM4 
+  - List of POS tags: https://courses.washington.edu/hypertxt/csar-v02/penntable.html
+  - ![alt text](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/wildcard.PNG)
   - ![alt text](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/step1.PNG)
   - ![alt text](https://github.com/SuminHan/hss302-2018/blob/master/supplementary_material/step2.PNG)
 - Samples for Group #1 and #2
