@@ -1,0 +1,2 @@
+Mr_NP President_NP ,_, you_PP 're_VBP about_RB to_TO fly_VV to_TO Kenya_NP ,_, to_TO your_PP$ ancestral_JJ home_NN ._SENT Given_VVN the_DT al-Shabaab_NP attacks_NNS on_IN the_DT West_NP Gate_NP mall_NN and_CC Garissa_NP University_NP ,_, I_PP 'm_VBP sure_JJ your_PP$ secret_JJ service_NN could_MD 've_VHP suggested_VVN other_JJ countries_NNS for_IN you_PP to_TO visit_VV ._SENT But_CC you_PP wanted_VVD to_TO go_VV to_TO Kenya_NP ._SENT 
+

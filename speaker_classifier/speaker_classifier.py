@@ -32,6 +32,15 @@ for fn in f:
     prev_speaker = None
     with codecs.open(os.path.join(sdir, fn), 'r', 'utf-8') as page:
         for line in page:
+            line = line.strip()
+            if len(line) == 0:
+                continue
+            if line[0] == '\"':
+                line = line[1:]
+            if line[-1] == '\"':
+                line = line[:-1]
+            line = line.strip()
+
             cidx = 0
             not_name = False
             while cidx < len(line) and line[cidx] != ':':

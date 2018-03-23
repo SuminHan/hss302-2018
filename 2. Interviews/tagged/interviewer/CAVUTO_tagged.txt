@@ -1,0 +1,12 @@
+All_DT right_NN ,_, there_EX are_VBP sanctuary_NN cities_NNS and_CC towns_NNS ,_, but_CC a_DT sanctuary_NN state_NN ?_SENT 
+What_WP can_MD you_PP do_VV if_IN you_PP are_VBP not_RB going_VVG to_TO get_VV local_JJ help_NN in_IN trying_VVG to_TO track_VV down_RP folks_NNS you_PP say_VVP not_RB only_RB should_MD n't_RB be_VB here_RB ,_, but_CC they_PP 're_VBP a_DT threat_NN to_TO people_NNS here_RB ?_SENT 
+So_RB ,_, Director_NP ,_, what_WP do_VVP you_PP do_VVP if_IN local_JJ police_NNS turn_VVP the_DT other_JJ way_NN and_CC say_VVP ,_, all_DT right_NN ,_, our_PP$ loyalty_NN is_VBZ to_TO the_DT governor_NN ?_SENT 
+How_WRB do_VVP you_PP follow_VV up_RP on_IN that_DT ,_, though_RB ?_SENT How_WRB do_VVP you_PP search_VVP these_DT individuals_NNS out_RP without_IN looking_VVG ,_, as_IN I_PP think_VVP the_DT governor_NN was_VBD intimating_VVG ,_, like_IN the_DT Gestapo_NN ?_SENT 
+But_CC what_WP if_IN they_PP do_VVP just_RB that_RB ?_SENT What_WP do_VVP you_PP do_VVP ?_SENT 
+What_WP if_IN they_PP do_VVP just_RB that_RB ?_SENT What_WP do_VVP you_PP do_VVP ?_SENT 
+But_CC they_PP are_VBP ,_, director_NN ,_, right_RB ?_SENT In_IN a_DT lot_NN of_IN cases_NNS ,_, they_PP 're_VBP just_RB that_RB ._SENT Then_RB what_WP do_VVP you_PP if_IN they_PP 're_VBP protecting_VVG or_CC there_EX 's_VBZ a_DT shield_NN of_IN protection_NN around_IN such_JJ individuals_NNS ?_SENT How_WRB do_VVP you_PP force_VV the_DT point_NN ?_SENT 
+Does_VVZ the_DT president_NN share_NN your_PP$ views_NNS ,_, sir_NN ?_SENT 
+And_CC he_PP 's_VHZ told_VVN you_PP that_DT ?_SENT 
+Director_NN ,_, thank_VV you_PP for_IN taking_VVG the_DT time_NN ._SENT 
+All_DT right_NN ._SENT 
+

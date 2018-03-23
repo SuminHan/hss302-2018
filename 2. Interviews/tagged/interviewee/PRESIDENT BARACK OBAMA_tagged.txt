@@ -1,0 +1,2 @@
+Well_RB ,_, I_PP think_VVP it_PP is_VBZ important_JJ first_RB of_IN all_DT that_WDT the_DT president_NN of_IN the_DT United_NP States_NP underscores_VVZ our_PP$ commitment_NN to_TO partnering_VVG with_IN countries_NNS around_IN the_DT world_NN ,_, even_RB though_IN we_PP 're_VBP not_RB intimidated_VVN by_IN terrorist_JJ organisations_NNS ._SENT Second_RB ,_, the_DT counterterrorism_NN co-operation_NN between_IN the_DT United_NP States_NPS and_CC Kenya_NP -_: and_CC Uganda_NP and_CC other_JJ countries_NNS -_: in_IN East_NP Africa_NP -_: is_VBZ very_RB strong_JJ ._SENT 
+
