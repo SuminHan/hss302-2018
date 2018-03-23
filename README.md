@@ -17,7 +17,7 @@ TAs: Sumin Han (hsm6911@kaist.ac.kr), Junghyun Lee (scimath@kaist.ac.kr)
 - Samples for Group #1 and #2
   - [Business meeting and interviews(1)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%201.docx)
   - [Business meeting and interviews(2)](https://github.com/SuminHan/hss302-2018/raw/master/supplementary_material/Business%20meeting%20%2B%20interview%20samples%202.docx)
-- [Speaker classifier for a script (code + samples)](https://github.com/SuminHan/hss302-2018/tree/master/speaker_classifier) (last modified: Wed, 21 Mar 2018 09:56:06 GMT)
+- [Speaker classifier for a script (code + samples)](https://github.com/SuminHan/hss302-2018/blob/master/speaker_classifier.zip?raw=true) (last modified: Wed, 21 Mar 2018 09:56:06 GMT)
 
 ## [1. Business Meeting](https://github.com/SuminHan/hss302-2018/tree/master/1.%20Business%20meeting)
 
